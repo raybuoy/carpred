@@ -1,0 +1,18 @@
+certifi==2021.5.30
+cycler==0.10.0
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+kiwisolver==1.3.1
+matplotlib==3.4.2
+mkl-fft==1.3.0
+mkl-random @ file:///C:/ci/mkl_random_1618854593605/work
+mkl-service==2.3.0
+numpy==1.21.0
+Pillow==8.3.1
+pyparsing==2.4.7
+python-dateutil==2.8.1
+scikit-learn @ file:///C:/ci/scikit-learn_1622739441385/work
+scipy==1.7.0
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+sklearn==0.0
+threadpoolctl==2.2.0
+wincertstore==0.2
